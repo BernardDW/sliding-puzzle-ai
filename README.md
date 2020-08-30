@@ -5,7 +5,9 @@ I attempted to create a virtual version of the sliding puzzle game, by using Pyt
 Screenshots:
 
 **Breath first search**
+
 ![Breadth first](https://github.com/BernardDW/sliding-puzzle-ai/blob/master/screenshots/Screenshot%201.jpg)
 
 **Best first search**
+
 ![Best first](https://github.com/BernardDW/sliding-puzzle-ai/blob/master/screenshots/Screenshot%202.jpg)
